@@ -4,6 +4,9 @@ A dark theme for [Starship](https://starship.rs).
 ![Screenshot](./Screenshot.png)
 
 ## Installation
+1. Install [Starship](https://starship.rs).
+2. Set it as your prompt in your shell config.
+3. Download the config file:
 ```
 mkdir $HOME/.config/starship && cd $HOME/.config/starship
 wget https://raw.githubusercontent.com/SAGAtheme/Starship/master/starship.toml
