@@ -5,8 +5,8 @@ A dark theme for [Starship](https://starship.rs).
 
 ## Installation
 ```
-mkdir $HOME/.config/starship
-wget -p $HOME/.config/starship https://raw.githubusercontent.com/SAGAtheme/Starship/master/starship.toml $
+mkdir $HOME/.config/starship && cd $HOME/.config/starship
+wget https://raw.githubusercontent.com/SAGAtheme/Starship/master/starship.toml
 ```
 
 ## Notes
